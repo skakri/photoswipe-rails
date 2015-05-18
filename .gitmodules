@@ -1,0 +1,3 @@
+[submodule "photoswipe-src"]
+	path = photoswipe-src
+	url = git@github.com:dimsemenov/PhotoSwipe.git
