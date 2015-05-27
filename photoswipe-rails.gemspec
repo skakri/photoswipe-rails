@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.homepage      = 'https://github.com/skakri/photoswipe-rails'
   gem.license       = 'MIT'
 
-  gem.files = Dir['{app,lib}/**/*', 'Rakefile']  # TODO: add README.md and LICENSE.txt
+  gem.files = Dir['{app,lib}/**/*', 'Rakefile', 'LICENSE', 'README.md']
   gem.require_paths = ['lib']
 
   gem.add_development_dependency 'bundler', '~> 1.3'
