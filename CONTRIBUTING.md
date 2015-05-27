@@ -35,6 +35,8 @@ feature/bug/enhancement):
     ```
 
 * In GitHub, send a pull request to `photoswipe-rails:master`.
+This should be done after first commit so changes can be tracked more easily
+and feedback/comments may be received faster.
 * If changes has to be made then:
   * Make the required updates.
   * Rebase your branch and force push to your GitHub repository
@@ -74,3 +76,5 @@ shell as follows:
     ```shell
     git pull --ff upstream master
     ```
+
+[github]: https://github.com/skakri/photoswipe-rails
