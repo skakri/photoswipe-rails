@@ -20,7 +20,7 @@ And to `app/assets/stylesheets/application.scss`:
 
 ```css
 /*
- *= require photoswipe
+ *= require photoswipe/photoswipe
  */
 ```
 
