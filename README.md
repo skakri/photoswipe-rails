@@ -1,4 +1,4 @@
-# photoswipe-rails
+# photoswipe-rails [![Gem Version](https://badge.fury.io/rb/photoswipe-rails.svg)](https://badge.fury.io/rb/photoswipe-rails)
 
 [PhotoSwipe](http://photoswipe.com/) for the Rails asset pipeline.
 
