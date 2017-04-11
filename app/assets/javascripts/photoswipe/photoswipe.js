@@ -3632,7 +3632,7 @@ _registerModule('History', {
 				if(!_closedFromURL) {
 
 					if(_urlChangedOnce) {
-						history.back();
+						history.pushState("", document.title, _windowLoc.pathname + _windowLoc.search);
 					} else {
 
 						if(_initialHash) {
