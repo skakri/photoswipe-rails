@@ -1,4 +1,2 @@
-/*
- *= require ./photoswipe.scss
- *= require ./default-skin/default-skin.scss
- */
+@import 'photoswipe';
+@import 'default-skin/default-skin';
