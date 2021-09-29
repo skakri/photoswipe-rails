@@ -24,6 +24,13 @@ And to `app/assets/stylesheets/application.scss`:
  */
 ```
 
+or if you prefer `@import` in your application.scss:
+
+```css
+@import "photoswipe/photoswipe";
+@import "photoswipe/default-skin/default-skin";
+```
+
 ## Further set-up
 
 See PhotoSwipe [set-up guide][1] for further instructions.
